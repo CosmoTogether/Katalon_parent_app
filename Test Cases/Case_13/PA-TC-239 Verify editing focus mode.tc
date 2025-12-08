@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-239 Verify editing focus mode</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>592e337b-e422-46d0-83c5-51bbc932ec85</testCaseGuid>
+</TestCaseEntity>

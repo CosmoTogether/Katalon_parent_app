@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-248 Tap on Delete alarm button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>4a4cd1d9-eb83-4f8b-92ac-26b86982b428</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-114 Tap on next without filling the phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>758e7794-7a86-4d48-93e2-72529b8d618a</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-269 Edit child data in child profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd4edfe5-8477-450d-bb86-dd04cf36b7ac</testCaseGuid>
+</TestCaseEntity>

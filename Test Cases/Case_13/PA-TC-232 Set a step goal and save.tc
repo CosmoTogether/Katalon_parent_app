@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-232 Set a step goal and save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6acfe751-630a-4a67-b80c-d0362ee7cc07</testCaseGuid>
+</TestCaseEntity>

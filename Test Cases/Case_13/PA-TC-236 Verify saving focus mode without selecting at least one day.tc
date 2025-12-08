@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-236 Verify saving focus mode without selecting at least one day</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c01efa43-4c8e-42a0-93fc-290eb83a4734</testCaseGuid>
+</TestCaseEntity>

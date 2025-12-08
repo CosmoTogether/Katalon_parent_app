@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-221 Tap on a device or a contact or a group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38feaf3d-b90c-4719-8397-4dd45fe1f77d</testCaseGuid>
+</TestCaseEntity>

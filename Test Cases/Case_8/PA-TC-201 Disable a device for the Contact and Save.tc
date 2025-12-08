@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-201 Disable a device for the Contact and Save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86d30299-b464-49b3-aecd-c99f7648c3e1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-196 Fill the fields properly, choose guardian and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74f2a21c-0568-4c11-9bcc-4bc234009aca</testCaseGuid>
+</TestCaseEntity>

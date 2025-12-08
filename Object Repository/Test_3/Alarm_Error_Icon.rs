@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Alarm_Error_Icon</name>
+   <tag></tag>
+   <elementGuidId>3f6608e9-0406-44ee-9757-50347902f67a</elementGuidId>
+   <imagePath>../../Downloads/Alarm_Error.PNG</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>../../Downloads/Alarm_Error.PNG</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>IMAGE</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+</WebElementEntity>

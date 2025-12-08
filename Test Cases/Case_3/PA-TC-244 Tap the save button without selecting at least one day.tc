@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-244 Tap the save button without selecting at least one day</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cd67982-369c-492d-a9ab-deeae868e863</testCaseGuid>
+</TestCaseEntity>

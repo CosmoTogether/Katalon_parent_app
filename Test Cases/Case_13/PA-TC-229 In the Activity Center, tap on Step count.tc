@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-229 In the Activity Center, tap on Step count</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a805f9ad-b660-449f-8fe8-054e3ec6bc90</testCaseGuid>
+</TestCaseEntity>

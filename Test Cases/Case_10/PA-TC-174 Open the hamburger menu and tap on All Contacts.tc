@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-174 Open the hamburger menu and tap on All Contacts</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d67b9efc-cab1-48a1-9419-dfd0de8cea11</testCaseGuid>
+</TestCaseEntity>

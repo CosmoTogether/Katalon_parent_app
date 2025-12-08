@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-208 Fill the proper information and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6862b8f-e460-481c-a844-1b5066e2b078</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-197 Tap on a contact or a guardian and edit it</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94893d6d-a66e-46e3-90f4-344a5e24a005</testCaseGuid>
+</TestCaseEntity>

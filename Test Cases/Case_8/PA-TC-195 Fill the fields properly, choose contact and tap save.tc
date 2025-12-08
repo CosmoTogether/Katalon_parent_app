@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-195 Fill the fields properly, choose contact and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45282724-5fe8-4a6c-934b-a4d7a71928b5</testCaseGuid>
+</TestCaseEntity>

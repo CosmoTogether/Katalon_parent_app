@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-194 Donot fill the fields properly and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24cc040e-31c3-4528-ab7f-3257899242b2</testCaseGuid>
+</TestCaseEntity>

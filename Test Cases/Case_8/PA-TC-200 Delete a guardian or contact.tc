@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-200 Delete a guardian or contact</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>950c7d59-de12-44b8-96aa-18e82ebe0dd1</testCaseGuid>
+</TestCaseEntity>

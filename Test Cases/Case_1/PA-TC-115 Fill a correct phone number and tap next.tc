@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-115 Fill a correct phone number and tap next</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>525ae236-c7d1-489b-8617-b4ae2d893ce6</testCaseGuid>
+</TestCaseEntity>

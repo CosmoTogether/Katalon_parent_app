@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-245 Tap the save button without selecting at least one device</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f2c0b0c-a648-4d69-b747-3ea565a46aa8</testCaseGuid>
+</TestCaseEntity>

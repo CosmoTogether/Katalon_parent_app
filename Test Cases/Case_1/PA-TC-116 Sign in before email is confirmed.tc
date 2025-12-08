@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-116 Sign in before email is confirmed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24e7f00e-5fb6-4076-9a38-52c58c4ab82c</testCaseGuid>
+</TestCaseEntity>

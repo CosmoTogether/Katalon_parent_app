@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-246 Fill the name field, choose at least a device and a day, then tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7cd7a6a-3d60-4b02-b717-11db814bcc49</testCaseGuid>
+</TestCaseEntity>

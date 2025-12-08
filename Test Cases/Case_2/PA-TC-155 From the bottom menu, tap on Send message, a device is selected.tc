@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-155 From the bottom menu, tap on Send message, a device is selected</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>6eeaeeb5-d327-4fdf-b812-f945a21c15b1</testCaseGuid>
+</TestCaseEntity>

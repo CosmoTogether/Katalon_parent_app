@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-222 Tap on the plus button</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>517f2545-e54b-4cb4-a85f-78ec3f3688c9</testCaseGuid>
+</TestCaseEntity>

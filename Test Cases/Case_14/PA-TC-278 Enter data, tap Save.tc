@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-278 Enter data, tap Save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ad59faca-4a3c-4f8b-97e3-50b40252f9d5</testCaseGuid>
+</TestCaseEntity>

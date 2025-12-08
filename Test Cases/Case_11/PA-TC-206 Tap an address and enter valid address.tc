@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-206 Tap an address and enter valid address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb1e1f06-84c6-4485-adbc-9b1433ab91b1</testCaseGuid>
+</TestCaseEntity>
