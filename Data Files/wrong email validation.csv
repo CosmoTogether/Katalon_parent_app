@@ -1,0 +1,28 @@
+email
+userexample.com
+user@domain
+@example.com
+user@
+user@example.c
+user@example.123
+user@example.c_m
+user@@example.com
+user@examplecom
+userexample@.com
+user @example.com
+user@ example.com
+user@exam ple.com
+имя@example.com
+user@домен.рф
+user@example.cöm
+"user,\@example.com"
+user@example!.com
+user\n@example.com
+prefix user@example.com suffix
+user@example.com\nother
+other\nuser@example.com
+"""user.name""@example.com"
+user-name+tag!$&'*=/@example.com
+üser@example.com
+user@exämple.com
+user@example.c

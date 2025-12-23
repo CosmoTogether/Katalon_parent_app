@@ -1,4 +1,5 @@
 import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import com.kms.katalon.core.exception.StepFailedException as StepFailedException
 import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
 import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
@@ -27,12 +28,15 @@ Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditTe
 
 Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditText - Last name'), 'test', 0)
 
-Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditText - Email'), 'test@gmail.com', 0)
+// generate a unique email address by adding the current date/time to the local part
+Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditText - Email'), "cosmotesters+${new Date().format('yyyyMMddHHmm')}@gmail.com", 0)
 
 Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditText - Password (8 or more characters)'), 
     'Abcd$1234', 0)
 
 Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditText - Confirm Password'), 'Abcd$1234', 0)
+
+Mobile.hideKeyboard()   // hide keyboard after confirming password
 
 Mobile.tap(findTestObject('Object Repository/PA-TC-115/android.widget.CheckBox'), 0)
 
@@ -41,7 +45,20 @@ Mobile.tap(findTestObject('Object Repository/PA-TC-115/android.widget.Button - N
 Mobile.setText(findTestObject('Object Repository/PA-TC-115/android.widget.EditText - Parent Phone Number'), '3434343434', 
     0)
 
-Mobile.tap(findTestObject('Object Repository/PA-TC-115/android.widget.Button - Next (1)'), 0)
+Mobile.hideKeyboard()   // hide keyboard after confirming password
 
-Mobile.closeApplication()
+Mobile.tap(findTestObject('Object Repository/PA-TC-115/android.widget.Button - Btn_Next_2'), 0)
+
+// Verify that either the email confirmation toast is shown OR the "Resend Email" button is present.
+boolean ok =
+	Mobile.verifyElementExist(findTestObject("Object Repository/PA-TC-115/Toast_UserEmailConfirmation"), 5,
+		FailureHandling.OPTIONAL) ||
+	Mobile.verifyElementExist(findTestObject('Object Repository/Create Parent Account - Confirmation Screen/ResendEmailButton'),
+		5, FailureHandling.OPTIONAL)
+	
+if (!ok) {
+	throw new StepFailedException("No toast, No Resend Email")
+}
+
+//Mobile.closeApplication()
 
