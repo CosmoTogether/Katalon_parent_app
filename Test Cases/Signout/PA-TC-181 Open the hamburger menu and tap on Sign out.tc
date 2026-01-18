@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-181 Open the hamburger menu and tap on Sign out</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53b97647-ffb6-47eb-88fa-cbd522c70615</testCaseGuid>
+</TestCaseEntity>

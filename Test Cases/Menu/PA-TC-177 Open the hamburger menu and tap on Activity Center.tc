@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-177 Open the hamburger menu and tap on Activity Center</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>95e19ddc-94f2-4c87-8b5e-89717a3f321a</testCaseGuid>
+</TestCaseEntity>

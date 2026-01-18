@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-173 Open the hamburger menu and tap on Home</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>206c3d2a-4c5b-4e56-9c29-33b8fc68d64f</testCaseGuid>
+</TestCaseEntity>

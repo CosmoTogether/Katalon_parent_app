@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-244 Tap the save button without selecting at least one day</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7cd67982-369c-492d-a9ab-deeae868e863</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>da7ba354-b26f-4145-9ff9-9c5943ef118b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>da7ba354-b26f-4145-9ff9-9c5943ef118b</id>
+      <masked>false</masked>
+      <name>alram_name</name>
+   </variable>
+</TestCaseEntity>

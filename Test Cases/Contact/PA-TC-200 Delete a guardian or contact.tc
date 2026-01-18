@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-200 Delete a guardian or contact</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>950c7d59-de12-44b8-96aa-18e82ebe0dd1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>56a71305-1d5f-4115-a79f-25a1f0e56e1e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'All contacts'</defaultValue>
+      <description></description>
+      <id>56a71305-1d5f-4115-a79f-25a1f0e56e1e</id>
+      <masked>false</masked>
+      <name>verify_contact_text</name>
+   </variable>
+</TestCaseEntity>

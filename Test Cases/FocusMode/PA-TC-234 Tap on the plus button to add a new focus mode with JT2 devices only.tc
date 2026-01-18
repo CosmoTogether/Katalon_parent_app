@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-234 Tap on the plus button to add a new focus mode with JT2 devices only</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3e4c402b-a26b-4326-95a5-d4121181703c</testCaseGuid>
+</TestCaseEntity>

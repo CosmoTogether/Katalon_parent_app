@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-194 Donot fill the fields properly and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24cc040e-31c3-4528-ab7f-3257899242b2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a5c22722-5b14-444c-b3f0-35e9102134d5</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'testuser1'</defaultValue>
+      <description></description>
+      <id>a5c22722-5b14-444c-b3f0-35e9102134d5</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+</TestCaseEntity>

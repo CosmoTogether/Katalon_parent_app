@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-180 Open the hamburger menu and tap on Support</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>719cb588-abff-4126-8f44-e6bb6d8306cb</testCaseGuid>
+</TestCaseEntity>

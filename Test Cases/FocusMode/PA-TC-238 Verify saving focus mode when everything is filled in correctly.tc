@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-238 Verify saving focus mode when everything is filled in correctly</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0a6e1ee3-9f23-4f55-bb6b-eb5095cd6375</testCaseGuid>
+</TestCaseEntity>

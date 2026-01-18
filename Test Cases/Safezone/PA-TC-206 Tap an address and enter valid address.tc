@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-206 Tap an address and enter valid address</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bb1e1f06-84c6-4485-adbc-9b1433ab91b1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f8036716-7a19-4be0-9667-d9fd8dcbb0b2</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'air university islamabad'</defaultValue>
+      <description></description>
+      <id>f8036716-7a19-4be0-9667-d9fd8dcbb0b2</id>
+      <masked>false</masked>
+      <name>address</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-274 Turn on-off daytime only and press save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>374dc80d-7113-463a-9d39-86c8ac3e7733</testCaseGuid>
+</TestCaseEntity>

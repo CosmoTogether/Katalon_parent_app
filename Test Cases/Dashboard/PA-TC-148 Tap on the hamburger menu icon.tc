@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-148 Tap on the hamburger menu icon</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7adc2c16-51f7-48e6-9a4d-aabefa292b3e</testCaseGuid>
+</TestCaseEntity>

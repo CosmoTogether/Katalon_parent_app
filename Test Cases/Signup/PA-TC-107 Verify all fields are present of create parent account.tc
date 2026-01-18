@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-107 Verify all fields are present of create parent account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c99408cb-ba78-470d-83c0-dbc0288b3022</testCaseGuid>
+</TestCaseEntity>

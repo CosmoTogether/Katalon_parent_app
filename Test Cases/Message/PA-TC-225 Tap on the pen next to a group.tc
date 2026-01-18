@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-225 Tap on the pen next to a group</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>387f0ea5-4801-405e-9bf8-e413b9413ca0</testCaseGuid>
+</TestCaseEntity>

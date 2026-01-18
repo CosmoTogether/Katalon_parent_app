@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-235 Verify saving focus mode without entering a name</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1c205dcf-8871-4ae2-a19d-3a3e8a3783f3</testCaseGuid>
+</TestCaseEntity>

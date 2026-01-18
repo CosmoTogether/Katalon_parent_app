@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-269 Edit child data in child profile</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dd4edfe5-8477-450d-bb86-dd04cf36b7ac</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0ba64638-8122-42e2-8eae-3738f1e93f05</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Kid1'</defaultValue>
+      <description></description>
+      <id>0ba64638-8122-42e2-8eae-3738f1e93f05</id>
+      <masked>false</masked>
+      <name>kid_name</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-197 Tap on a contact or a guardian and edit it</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>94893d6d-a66e-46e3-90f4-344a5e24a005</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>36feb279-ff6c-4512-a939-a63c799a8db6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>324a9eee-e50c-4bdc-8e02-328a07a0dc30</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b1945af-bab6-42ca-9320-08bbda84b20a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test 2'</defaultValue>
+      <description></description>
+      <id>36feb279-ff6c-4512-a939-a63c799a8db6</id>
+      <masked>false</masked>
+      <name>value_1</name>
+   </variable>
+   <variable>
+      <defaultValue>'test 2'</defaultValue>
+      <description></description>
+      <id>324a9eee-e50c-4bdc-8e02-328a07a0dc30</id>
+      <masked>false</masked>
+      <name>value_2</name>
+   </variable>
+   <variable>
+      <defaultValue>'test 2 test 2'</defaultValue>
+      <description></description>
+      <id>1b1945af-bab6-42ca-9320-08bbda84b20a</id>
+      <masked>false</masked>
+      <name>verify_value</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-172 Open the hamburger menu and tap on My Devices</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>131287e6-9bb7-462e-bba2-5a206f8a37fc</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-108 Tap the Next button without filling all the fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>cb9a0afd-315e-4082-b308-5d763da4340c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-207 Long press on the map</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>afc3fac3-bbd7-44a7-9260-5ab839f5ff65</testCaseGuid>
+</TestCaseEntity>

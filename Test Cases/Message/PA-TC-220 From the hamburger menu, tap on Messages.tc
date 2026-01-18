@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-220 From the hamburger menu, tap on Messages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8bd15877-3ad0-4fb2-a9d9-39f8cf2619af</testCaseGuid>
+</TestCaseEntity>

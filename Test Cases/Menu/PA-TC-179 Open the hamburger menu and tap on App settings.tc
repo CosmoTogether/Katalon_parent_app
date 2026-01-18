@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-179 Open the hamburger menu and tap on App settings</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1eb6d860-5fc0-4d02-936e-36be42b0d4bc</testCaseGuid>
+</TestCaseEntity>

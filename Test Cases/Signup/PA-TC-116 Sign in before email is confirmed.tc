@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-116 Sign in before email is confirmed</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>24e7f00e-5fb6-4076-9a38-52c58c4ab82c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>53bebf81-d1a1-4d2a-b078-3982639513a0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c33978a5-68a6-4954-8c20-41608eacb53b</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test@gmail.com'</defaultValue>
+      <description></description>
+      <id>53bebf81-d1a1-4d2a-b078-3982639513a0</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'Abcd$1234'</defaultValue>
+      <description></description>
+      <id>c33978a5-68a6-4954-8c20-41608eacb53b</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

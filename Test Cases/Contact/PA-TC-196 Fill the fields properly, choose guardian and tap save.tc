@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-196 Fill the fields properly, choose guardian and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>74f2a21c-0568-4c11-9bcc-4bc234009aca</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e65d37b0-3dae-42d9-a8f1-a63e2454bd5f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ba683aaf-a868-462d-a97e-a2145385f07f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4e888453-32c3-445f-a8be-97ee2db687b1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>e65d37b0-3dae-42d9-a8f1-a63e2454bd5f</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>ba683aaf-a868-462d-a97e-a2145385f07f</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'All contacts'</defaultValue>
+      <description></description>
+      <id>4e888453-32c3-445f-a8be-97ee2db687b1</id>
+      <masked>false</masked>
+      <name>verify_contact_text</name>
+   </variable>
+</TestCaseEntity>

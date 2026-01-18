@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-205 Tap on the save button without entering enough information</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>813e3cc9-3bdc-47b5-82e4-3de356308b2e</testCaseGuid>
+</TestCaseEntity>

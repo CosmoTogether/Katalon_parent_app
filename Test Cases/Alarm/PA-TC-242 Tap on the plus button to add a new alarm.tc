@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-242 Tap on the plus button to add a new alarm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1538365e-ce4d-460f-88f1-24c2dea4625e</testCaseGuid>
+</TestCaseEntity>
