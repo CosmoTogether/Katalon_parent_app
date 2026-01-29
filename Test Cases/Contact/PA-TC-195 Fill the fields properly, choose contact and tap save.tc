@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-195 Fill the fields properly, choose contact and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>45282724-5fe8-4a6c-934b-a4d7a71928b5</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c1310586-3c5d-4bf0-bf7f-44be49dcf29b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cf013ab5-1ba2-44e0-8686-15fa2b2c60d7</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1cf57d67-87e3-4505-babe-59f65d8b5657</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>c1310586-3c5d-4bf0-bf7f-44be49dcf29b</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>cf013ab5-1ba2-44e0-8686-15fa2b2c60d7</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'All contacts'</defaultValue>
+      <description></description>
+      <id>1cf57d67-87e3-4505-babe-59f65d8b5657</id>
+      <masked>false</masked>
+      <name>verify_contact_text</name>
+   </variable>
+</TestCaseEntity>

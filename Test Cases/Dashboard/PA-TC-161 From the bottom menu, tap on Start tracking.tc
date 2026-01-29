@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-161 From the bottom menu, tap on Start tracking</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>38123881-9543-4fee-8b64-8ece91424c27</testCaseGuid>
+</TestCaseEntity>

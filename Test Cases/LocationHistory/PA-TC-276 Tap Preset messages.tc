@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-276 Tap Preset messages</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>92c277bd-4a08-4735-a20a-ca85496ef03a</testCaseGuid>
+</TestCaseEntity>

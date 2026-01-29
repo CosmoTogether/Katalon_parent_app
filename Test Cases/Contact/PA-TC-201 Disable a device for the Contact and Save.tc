@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-201 Disable a device for the Contact and Save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>86d30299-b464-49b3-aecd-c99f7648c3e1</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6f7e0d06-d2d6-41e0-ba1e-f68e779bcbdc</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>158cf5e4-90ee-474c-8733-937a560df890</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7c9ef6de-c719-459a-8ef1-6a80cfd17481</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>6f7e0d06-d2d6-41e0-ba1e-f68e779bcbdc</id>
+      <masked>false</masked>
+      <name>first_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>158cf5e4-90ee-474c-8733-937a560df890</id>
+      <masked>false</masked>
+      <name>last_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'Edit contact'</defaultValue>
+      <description></description>
+      <id>7c9ef6de-c719-459a-8ef1-6a80cfd17481</id>
+      <masked>false</masked>
+      <name>verify_contact_text</name>
+   </variable>
+</TestCaseEntity>

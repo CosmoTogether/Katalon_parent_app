@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-237 Verify saving focus mode without selecting at least one device</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbd4bbe2-29d1-46fb-86b8-7de520169194</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>03f969dd-b03a-465d-a116-b78fe41ff285</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test34'</defaultValue>
+      <description></description>
+      <id>03f969dd-b03a-465d-a116-b78fe41ff285</id>
+      <masked>false</masked>
+      <name>focus_name</name>
+   </variable>
+</TestCaseEntity>

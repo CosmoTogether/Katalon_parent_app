@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-223 Tap save without adding a name or a device-contact</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bbef4d3f-13b0-461a-b60c-9e6f0439f59e</testCaseGuid>
+</TestCaseEntity>

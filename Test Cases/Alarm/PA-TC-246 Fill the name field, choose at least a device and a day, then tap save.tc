@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-246 Fill the name field, choose at least a device and a day, then tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e7cd7a6a-3d60-4b02-b717-11db814bcc49</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>487ac0d5-893a-417e-97ac-569059a5a470</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>487ac0d5-893a-417e-97ac-569059a5a470</id>
+      <masked>false</masked>
+      <name>alarm_name</name>
+   </variable>
+</TestCaseEntity>

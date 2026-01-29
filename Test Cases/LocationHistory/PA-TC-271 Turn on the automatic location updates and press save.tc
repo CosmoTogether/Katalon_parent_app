@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-271 Turn on the automatic location updates and press save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c16c4a7-0b13-401d-a903-43c3c3326391</testCaseGuid>
+</TestCaseEntity>

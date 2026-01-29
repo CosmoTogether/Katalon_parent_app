@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-241 From the Activity Center, tap on Alarm</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ada8284c-4932-4af0-89ea-ab8c8fdc8c59</testCaseGuid>
+   <variable>
+      <defaultValue>'Alarms'</defaultValue>
+      <description></description>
+      <id>25aebdda-1005-4c60-9ac6-13972ca0b1a8</id>
+      <masked>false</masked>
+      <name>verify_alarm_text</name>
+   </variable>
+</TestCaseEntity>

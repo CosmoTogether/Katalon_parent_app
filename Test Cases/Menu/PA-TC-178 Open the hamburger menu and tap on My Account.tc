@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-178 Open the hamburger menu and tap on My Account</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>2c76f32d-fe6c-4175-acca-5b38dfc3fe2d</testCaseGuid>
+</TestCaseEntity>

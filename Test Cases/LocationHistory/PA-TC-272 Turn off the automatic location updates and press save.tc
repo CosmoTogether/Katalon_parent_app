@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-272 Turn off the automatic location updates and press save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>711c6d7b-eedf-4acf-804c-0443e583a185</testCaseGuid>
+</TestCaseEntity>

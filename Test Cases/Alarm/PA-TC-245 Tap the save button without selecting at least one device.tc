@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-245 Tap the save button without selecting at least one device</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1f2c0b0c-a648-4d69-b747-3ea565a46aa8</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>29a38b72-19e6-4339-8bde-cf7c045be998</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>29a38b72-19e6-4339-8bde-cf7c045be998</id>
+      <masked>false</masked>
+      <name>alarm_name</name>
+   </variable>
+</TestCaseEntity>

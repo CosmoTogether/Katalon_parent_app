@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-230 Swipe right or left</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9b7fac18-48fb-4cd4-9ecc-524bfb4e7f53</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-273 Tap on daytime</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53ce93a6-0171-493c-87a5-2768ad2a4af4</testCaseGuid>
+</TestCaseEntity>

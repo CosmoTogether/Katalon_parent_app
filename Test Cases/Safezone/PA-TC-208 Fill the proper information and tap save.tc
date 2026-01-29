@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>PA-TC-208 Fill the proper information and tap save</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f6862b8f-e460-481c-a844-1b5066e2b078</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>512abaa5-1274-4376-8e07-7f065185c012</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'test 4'</defaultValue>
+      <description></description>
+      <id>512abaa5-1274-4376-8e07-7f065185c012</id>
+      <masked>false</masked>
+      <name>zone_name</name>
+   </variable>
+</TestCaseEntity>
